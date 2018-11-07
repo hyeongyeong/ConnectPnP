@@ -1,0 +1,38 @@
+#party_images{
+    width: 100%;
+}
+
+.dorne-single-listing-area{
+    padding-top: 200px;
+}
+
+.tab-pane{
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+
+.nav-tabs
+.nav-link{
+    color:darkgray;
+   
+}
+
+.nav-tabs{
+    padding-top: 15px ;
+    position: static;
+}
+
+.main-info,
+.main-info h2,
+.main-info h5{
+    font-family: Cambria;
+
+    text-align: center;
+    padding-bottom: 10px;
+    display: inline;
+}
+
+.main-info hr{
+    border-width: 5px;
+    background-color: #7643ea;
+}
